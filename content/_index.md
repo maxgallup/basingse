@@ -5,25 +5,7 @@ title = "Home"
 
 {% crt() %}
 ```
-             ...:^^^^^^:...             
-         .:~7J55PPPPPPP55Y?!^:.         
-      .:!JPGBBGGGGPPPPPPPPPPP5J!:.      
-    .^75BBBGGGGPPPPPPP5555555555Y7^.    
-   :!5BBGGGGGPPPPPPP55555555555555Y7:   
-  ^7PBGGGGGGPPPPPPP555555YYYYYYYY555?:  
- :!PBGGGGGPPPJ!!!!!!!!!!!!7YYYYYYYY557: 
-.~JBGGGGGPPPP?.          :~YYYYYYYYY5Y~.
-^!B####BBBBGG?.          :~YYYYYYYYYYY!.
-^!#######BBBBJ.          :!YYYYYYYYYYY!:
-^~B&#######BBJ.          :!GGPPP5YYYYY~.
-.^Y&#########?.          .!GGGGGGGGPPJ:.
- :^B&########577777!!!!!!7?GGGGGGGBBG!. 
-  :^B&&############BBBBBBBBBBBBBBBBG!:  
-   .:5&&&##########BBBBBBBBBBBBBBB5^..  
-    ..~P#&&&#############B#B###BP!:.    
-      ..^JG#&&&&#############GJ~..      
-         ..:!J5GB#####BBG5J!^..         
-              ...::^^::...              
+work in progress...
 ```
 {% end %}
 
