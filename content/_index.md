@@ -5,7 +5,7 @@ title = "Home"
 
 {% crt() %}
 ```
-work in progress...
+Work in progress...
 ```
 {% end %}
 
