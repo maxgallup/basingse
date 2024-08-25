@@ -1,0 +1,31 @@
+# The URL the site will be built for
+base_url = "https://basingse.org"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "duckquill"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+primary_color = "#3584e4"
+primary_color_alpha = "rgba(53, 132, 228, 0.2)"
+
+primary_color_dark = "#ff7800"
+primary_color_dark_alpha = "rgba(255, 120, 0, 0.2)"
+
+[search]
+index_format = "elasticlunr_javascript" # or "elasticlunr_json"
+
+
+
+
+
+
