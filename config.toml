@@ -41,8 +41,8 @@ primary_color_dark_alpha = "rgba(26, 204, 143, 0.2)"
 
 fix_contrast_dark = true
 emoji_favicon = "🥬"
-issues_url = "https://github.com/maxgallup/maxgallup.github.io/issues"
-source_url = "https://github.com/maxgallup/maxgallup.github.io"
+issues_url = "https://github.com/maxgallup/basingse/issues"
+source_url = "https://github.com/maxgallup/basingse"
 # Additional CSS stylesheets; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 # stylesheets = [

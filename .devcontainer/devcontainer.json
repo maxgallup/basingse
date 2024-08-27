@@ -1,12 +1,6 @@
 {
     "name": "basingse-dev",
 
-    // Comment this out when new changes are necessary
-    // and reupload to dockerhub
-    // "image": "maxgallup/zola-dev",
-
-    // Uncomment this for when new changes to the base image
-    // are necessary
     "build": {
         "dockerfile": "Dockerfile"
     },
