@@ -71,6 +71,7 @@ show_repo = false
 links = [
 	{ url = "@/blog/_index.md", name = "Blog" },
 	{ url = "@/recipes/_index.md", name = "Recipes" },
+	{ url = "@/now.md", name = "Now" },
 ]
 
 [extra.footer]
