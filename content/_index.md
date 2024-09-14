@@ -3,7 +3,7 @@ insert_anchor_links = "right"
 title = "Home"
 +++
 
-{% crt() %}
+<!-- {% crt() %}
 ```
 fn main() -> ! {
     let ideas = Mind::init(MAX_CAPACITY);
@@ -25,7 +25,15 @@ fn main() -> ! {
     }
 }
 ```
+{% end %} -->
+
+{% crt() %}
+```
+WIP...
+```
 {% end %}
+
+
 
 <center>
 <a href="https://avatar.fandom.com/wiki/Ba_Sing_Se"><i>Tale of the Impenetrable City<i></a>
