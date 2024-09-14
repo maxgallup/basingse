@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>basingse - munchies</title>
+    <subtitle>todo</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://basingse.org/tags/munchies/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://basingse.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-01T00:00:00+00:00</updated>
+    <id>https://basingse.org/tags/munchies/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Banana Bread</title>
+        <published>2024-04-01T00:00:00+00:00</published>
+        <updated>2024-04-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Max Gallup
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://basingse.org/recipes/banana-bread/"/>
+        <id>https://basingse.org/recipes/banana-bread/</id>
+        
+        <content type="html" xml:base="https://basingse.org/recipes/banana-bread/">&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1¾ cups (210 g) spelt flour (whole wheat, unbleached * all-purpose, or gluten free blend), see notes&lt;&#x2F;li&gt;
+&lt;li&gt;⅓ cup (75 g) organic pure cane sugar (or ½ finely chopped * dates)&lt;&#x2F;li&gt;
+&lt;li&gt;2x teaspoons baking powder&lt;&#x2F;li&gt;
+&lt;li&gt;½ teaspoon baking soda&lt;&#x2F;li&gt;
+&lt;li&gt;pinch of mineral salt&lt;&#x2F;li&gt;
+&lt;li&gt;⅓ cup (75 ml) neutral flavored oil (or coconut oil in liquid * state, vegan butter at room temp or applesauce&lt;&#x2F;li&gt;
+&lt;li&gt;1x teaspoon vanilla extract&lt;&#x2F;li&gt;
+&lt;li&gt;4x small or 3 large overripe bananas (about 1 ½ – 1 ¾ cups * (338-410g)), mashed&lt;&#x2F;li&gt;
+&lt;li&gt;¼ cup (56 ml) almond milk, use only if needed&lt;&#x2F;li&gt;
+&lt;li&gt;1 teaspoon cinnamon&lt;&#x2F;li&gt;
+&lt;li&gt;Optional tasty add-ins:
+&lt;ul&gt;
+&lt;li&gt;½ – ⅔ cup chopped walnuts&lt;&#x2F;li&gt;
+&lt;li&gt;¼ –  ½ cup chocolate chips (mini or regular)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions&lt;&#x2F;h3&gt;
+&lt;p&gt;Preheat oven to 350F &#x2F; 178C. Grease your loaf pan.&lt;&#x2F;p&gt;
+&lt;p&gt;One bowl method: In a medium sized mixing bowl, mash 3 – 4 bananas (about 1 ½ cups to 1 ¾ cups works well), add oil&#x2F;applesauce and vanilla extract, mix again. Add the flour, sugar, baking soda, baking powder and salt, and mix well, but don’t over-mix, just enough until the flour is combined. Batter will be slightly thick and a few lumps is ok. If mixture seems too thick, add more milk, especially if using heavier flours such as whole wheat or whole spelt, you’re more inclined to need it).&lt;&#x2F;p&gt;
+&lt;p&gt;Pour batter into a greased loaf pan. Bake for about 50 min – 1 hour. Ovens vary, mine usually takes 50 minutes. You can also do the toothpick test in the center of the loaf, if it comes out clean it should be ready. Remove from oven and let cool for 10 min before slicing.&lt;&#x2F;p&gt;
+&lt;p&gt;Original method: In a medium&#x2F;large size bowl, combine flour, sugar, baking powder, baking soda and salt, set aside. In a medium bowl, mash bananas. Add the oil, vanilla and bananas to the dry ingredients and mix until combined, do not over-mix. If mixture seems too thick, add the almond milk (especially if using heavier flours such as whole wheat or whole spelt, you’re more inclined to need it).&lt;&#x2F;p&gt;
+&lt;p&gt;Pour batter into a greased loaf pan. Bake for about 50 min – 1 hour. Ovens vary, mine usually takes 50 minutes. You can also do the toothpick test in the center of the loaf, if it comes out clean it should be ready. Remove from oven and let cool for 10 min before slicing.&lt;&#x2F;p&gt;
+&lt;p&gt;Store: Keep covered on the counter for up to 3 days or in the refrigerator up to 1 week. Keep in the freezer for up to 2 months. Thaw the wrapped loaves overnight in the refrigerator. Reheat in the microwave or a toaster oven with a door.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;basingse.org&#x2F;recipes&#x2F;banana-bread&#x2F;.&#x2F;banana-bread.jpg&quot; alt=&quot;Banana Bread&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fudge Brownies</title>
+        <published>2024-04-01T00:00:00+00:00</published>
+        <updated>2024-04-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Max Gallup
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://basingse.org/recipes/fudge-brownies/"/>
+        <id>https://basingse.org/recipes/fudge-brownies/</id>
+        
+        <content type="html" xml:base="https://basingse.org/recipes/fudge-brownies/">&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1x cup flour&lt;&#x2F;li&gt;
+&lt;li&gt;3&#x2F;4x cup sugar&lt;&#x2F;li&gt;
+&lt;li&gt;6x tablespoons cocoa&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;2x teaspoon baking powder&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;4x teaspoon salt&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;2x cup water&lt;&#x2F;li&gt;
+&lt;li&gt;2x tablespoon vegetable oil&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;2x cup applesauce&lt;&#x2F;li&gt;
+&lt;li&gt;1x teaspoon vanilla&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions&lt;&#x2F;h3&gt;
+&lt;p&gt;Mix all ingredients into a bowl and pour mixture into dish with baking paper. Bake for 25-30 minutes at 175°C (347°F).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;basingse.org&#x2F;recipes&#x2F;fudge-brownies&#x2F;brownies.jpg&quot; alt=&quot;Vegan Brownies&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

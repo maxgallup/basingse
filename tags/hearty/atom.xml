@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>basingse - hearty</title>
+    <subtitle>todo</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://basingse.org/tags/hearty/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://basingse.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-01T00:00:00+00:00</updated>
+    <id>https://basingse.org/tags/hearty/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Dan Dan Noodles</title>
+        <published>2024-04-01T00:00:00+00:00</published>
+        <updated>2024-04-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Max Gallup
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://basingse.org/recipes/dandan-noodles/"/>
+        <id>https://basingse.org/recipes/dandan-noodles/</id>
+        
+        <content type="html" xml:base="https://basingse.org/recipes/dandan-noodles/">&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4x cloves of garlic, grated&lt;&#x2F;li&gt;
+&lt;li&gt;2x tablespoons chili flakes&lt;&#x2F;li&gt;
+&lt;li&gt;1x tablespoon sesame seeds&lt;&#x2F;li&gt;
+&lt;li&gt;2x teaspoons ground Sichuan pepper&lt;&#x2F;li&gt;
+&lt;li&gt;4x tablespoons vegetable oil (heated in pan)&lt;&#x2F;li&gt;
+&lt;li&gt;4x tablespoons soy sauce&lt;&#x2F;li&gt;
+&lt;li&gt;2x tablespoons dark brown sugar&lt;&#x2F;li&gt;
+&lt;li&gt;1.5x tablespoons peanut butter or sesame paste&lt;&#x2F;li&gt;
+&lt;li&gt;2x teaspoons black vinegar&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions&lt;&#x2F;h3&gt;
+&lt;p&gt;Combine all ingredients except for the soy sauce, peanut butter and oil into a bowl. Heat oil in a pan until hot and pour over ingredients. Mix, then add the remaining peanut butter and soy sauce. Consistency should be rather thick. Splash of hot noodle-water can be added when serving.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Credit: &lt;a href=&quot;https:&#x2F;&#x2F;chejorge.com&#x2F;2020&#x2F;07&#x2F;24&#x2F;vegan-dan-dan-noodles&#x2F;&quot;&gt;Chez Jorge&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;basingse.org&#x2F;recipes&#x2F;dandan-noodles&#x2F;.&#x2F;dandan.webp&quot; alt=&quot;DanDan Noodles&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
